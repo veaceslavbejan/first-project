@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 Hello from MAIN BRANCH!
-=======
-Hello from CONFLICT BRANCH!
->>>>>>> conflict-demo
 This is my second Git commit.
 This change is only in test-branch.
